@@ -7,6 +7,13 @@ com esta tecnologia consigo estilizar o layout de forma rápida e eficiente, exc
 Utilizei o framer-motion para dar um encanto no UI/UX design do projeto, onde boto animações de left e Up, onde faço o layout ficar mais animado e agradável para o usuário que acessar este site.
 </p>
 
+![DevGustavoGantois](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+
+
 ![alt text](image.png)
 
 <p>Este layout também está responsivo para telas menores e dispositivos móveis.</p>
